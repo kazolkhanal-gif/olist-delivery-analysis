@@ -41,7 +41,7 @@ See [docs/recommendations_memo.md](docs/recommendations_memo.md) for the one-pag
 
 ## Data source
 Brazilian E-Commerce Public Dataset by Olist, via Kaggle: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
-License: (copy the license name from the Kaggle page)
+License: CC BY-NC-SA 4.0
 The raw data files are not included in this repository.
 
 ## Tools
